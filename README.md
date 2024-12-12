@@ -1,1 +1,1 @@
-Page with some of my personal projects
+Model that can classify the breed of 120 breeds of dogs
